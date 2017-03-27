@@ -9,6 +9,6 @@ Al momento è solo un primo esperimento di generazione delle classi C# a partire
 ### Roadmap
 Prima di poter fissare gli obiettivi e quindi il contenuto dell'SDK, vi sono alcune questioni aperte che sono state sottoposte al TTD:
 
-- L'interfaccia ai servizi sarà necessariamente mediante Web Services SOAP o si può immaginare un ulteriore servizio di tipo RESTFull ?
-- Nel caso in cui Web Service SOAP sia un requisito (tecnico / legale) non modificabile, è ipotizzabile lo sviluppo di un servizio RESTFull che sia affiancato (ovvero interfacciato direttamante con il database) o che funga da facade (ovvero interposto tra il client e il servizio Web Service SOAP) ?
+- L'interfaccia ai servizi sarà necessariamente mediante Web Services SOAP o si può immaginare un ulteriore servizio di tipo RESTful ?
+- Nel caso in cui Web Service SOAP sia un requisito (tecnico / legale) non modificabile, è ipotizzabile lo sviluppo di un servizio RESTful che sia affiancato (ovvero interfacciato direttamente con il database) o che funga da facade (ovvero interposto tra il client e il servizio Web Service SOAP) ?
 - Ambiente di test
